@@ -11,7 +11,7 @@
     "compute-rhino3d": "^0.9.0",
     "core-js": "^3.4.4",
     "rhino3dm": "^0.8.1",
-    "three": "^0.113.2",
+    "three": "^0.137.0",
     "vue": "^2.6.10"
   },
   "devDependencies": {
